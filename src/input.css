@@ -10,7 +10,7 @@ body{
 .sec-one{
     background-image: url(../img/bg1.png);
     background-size: cover;
-    height: 100%;
+    
 }
 .work-sec{
     background-image: url(../img/work-process-bg.png);

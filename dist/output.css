@@ -639,10 +639,6 @@ video {
   margin-right: 1.25rem;
 }
 
-.mt-40 {
-  margin-top: 10rem;
-}
-
 .mb-10 {
   margin-bottom: 2.5rem;
 }
@@ -988,6 +984,11 @@ video {
   padding-right: 1.5rem;
 }
 
+.py-36 {
+  padding-top: 9rem;
+  padding-bottom: 9rem;
+}
+
 .px-3 {
   padding-left: 0.75rem;
   padding-right: 0.75rem;
@@ -1277,7 +1278,6 @@ body{
 .sec-one{
   background-image: url(../img/bg1.png);
   background-size: cover;
-  height: 100%;
 }
 
 .work-sec{
@@ -1392,6 +1392,10 @@ body{
 }
 
 @media (min-width: 640px) {
+  .sm\:top-0 {
+    top: 0px;
+  }
+
   .sm\:ml-36 {
     margin-left: 9rem;
   }
@@ -1418,10 +1422,6 @@ body{
 
   .sm\:gap-32 {
     gap: 8rem;
-  }
-
-  .sm\:pb-48 {
-    padding-bottom: 12rem;
   }
 
   .sm\:text-start {
@@ -1528,6 +1528,10 @@ body{
 
   .lg\:mb-0 {
     margin-bottom: 0px;
+  }
+
+  .lg\:mr-52 {
+    margin-right: 13rem;
   }
 
   .lg\:block {
