@@ -591,10 +591,13 @@ video {
   }
 }
 
+<<<<<<< HEAD
 .absolute {
   position: absolute;
 }
 
+=======
+>>>>>>> a5ab4b73b4aec5de7d33923cb5168895c3c2161e
 .relative {
   position: relative;
 }
