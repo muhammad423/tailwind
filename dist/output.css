@@ -599,6 +599,18 @@ video {
   top: 6rem;
 }
 
+.top-36 {
+  top: 9rem;
+}
+
+.top-44 {
+  top: 11rem;
+}
+
+.top-52 {
+  top: 13rem;
+}
+
 .-m-4 {
   margin: -1rem;
 }
